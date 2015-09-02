@@ -2,4 +2,4 @@
 
 I'm trying to host files for [devinshields.com](http://devinshields.com/) on GitHub Pages. I'm currently following the [tutorial here](http://blog.teamtreehouse.com/using-github-pages-to-host-your-website), we'll see what happens.
 
-[This guide](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/) looks good too.
+[This guide](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/) is the official one for setting up a custom domain. I'm looking at the DNS A Record guide [here](https://help.github.com/articles/tips-for-configuring-an-a-record-with-your-dns-provider/).
